@@ -11,7 +11,7 @@ A collection of small Python mini-projects — mostly built as coursework exerci
 
 | `hotelMenu.py` ---|--- Hotel menu / ordering system script. |
 
-| `student_grade_tracker.py` ---|--- Takes input for a set number of students (name, unique roll number, marks), computes a letter grade for each, then prints a full class summary and a separate list of students who passed. |
+| `mini_project.py` ---|--- Basically it's a student grade tracker simple project, which takes input for a set number of students (name, unique roll number, marks), computes a letter grade for each, then prints a full class summary and a separate list of students who passed. |
 
 
 ## How to run
