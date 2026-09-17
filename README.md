@@ -5,21 +5,18 @@ A collection of small Python mini-projects — mostly built as coursework exerci
 
 ## Projects
 
-| File | Description |
+| File ---|--- Description |
 
 | `calender.py` ---|--- Calendar-related utility script. |
+
 | `hotelMenu.py` ---|--- Hotel menu / ordering system script. |
+
 | `student_grade_tracker.py` ---|--- Takes input for a set number of students (name, unique roll number, marks), computes a letter grade for each, then prints a full class summary and a separate list of students who passed. |
 
 
 ## How to run
 
-Each script is self-contained. Run any file directly with Python 3:
-
-bash
-python3 <filename>.py
-
-
+Each script is self-contained. Run any file directly with Python 3
 Most scripts take input interactively via the terminal (e.g. names, numbers, menu choices).
 
 
