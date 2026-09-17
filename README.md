@@ -1,1 +1,34 @@
 # Python_Projects
+
+A collection of small Python mini-projects — mostly built as coursework exercises, practice problems, and self-guided learning scripts. Each file is a standalone script that can be run independently.
+
+
+## Projects
+
+| File | Description |
+
+| `calender.py` ---|--- Calendar-related utility script. |
+| `hotelMenu.py` ---|--- Hotel menu / ordering system script. |
+| `student_grade_tracker.py` ---|--- Takes input for a set number of students (name, unique roll number, marks), computes a letter grade for each, then prints a full class summary and a separate list of students who passed. |
+
+
+## How to run
+
+Each script is self-contained. Run any file directly with Python 3:
+
+bash
+python3 <filename>.py
+
+
+Most scripts take input interactively via the terminal (e.g. names, numbers, menu choices).
+
+
+## Structure
+
+This repo will keep growing with more small Python projects over time — each new script added as its own file, with an entry added to the table above.
+
+
+## Requirements
+
+- Python 3.x
+- No external dependencies (standard library only), unless noted in a specific script.
