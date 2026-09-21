@@ -13,6 +13,8 @@ A collection of small Python mini-projects — mostly built as coursework exerci
 
 | `mini_project.py` ---|--- Basically it's a student grade tracker simple project, which takes input for a set number of students (name, unique roll number, marks), computes a letter grade for each, then prints a full class summary and a separate list of students who passed. |
 
+| `qrCode.py` ---|--- Generates a QR code using the "qrcode" and "Pillow" libraries. |
+
 
 ## How to run
 
@@ -28,4 +30,5 @@ This repo will keep growing with more small Python projects over time — each n
 ## Requirements
 
 - Python 3.x
+- pip install qrcode[pil]         # for run the qrCode.py 
 - No external dependencies (standard library only), unless noted in a specific script.
