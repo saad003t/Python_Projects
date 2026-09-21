@@ -30,5 +30,5 @@ This repo will keep growing with more small Python projects over time — each n
 ## Requirements
 
 - Python 3.x
-- pip install qrcode[pil]         # for run the qrCode.py 
+- pip install qrcode[pil]                         # for run the qrCode.py 
 - No external dependencies (standard library only), unless noted in a specific script.
