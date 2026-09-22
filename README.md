@@ -22,6 +22,29 @@ Each script is self-contained. Run any file directly with Python 3
 Most scripts take input interactively via the terminal (e.g. names, numbers, menu choices).
 
 
+## Setup
+
+Some scripts require external packages (see Requirements below). If you hit an installation error when running `pip install`, it's likely because your system Python is externally managed — create a virtual environment first:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+pip install qrcode[pil]
+```
+
+Then run the script as usual inside the activated environment.
+
+```bash
+python qrCode.py
+```
+
+To deactivate the virtual environment:
+
+```bash
+deactivate
+```
+
+
 ## Structure
 
 This repo will keep growing with more small Python projects over time — each new script added as its own file, with an entry added to the table above.
